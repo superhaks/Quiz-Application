@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quiz Competition</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="types">
+        <item>General knowledge</item>
+        <item>Maths</item>
+		<item>Computers</item>
+		<item>Aptitude</item>
+		<item>English</item>
+    </string-array>
+
+</resources>

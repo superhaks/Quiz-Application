@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10sp" >
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Question"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/optiona"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Option A"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/optionb"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Option B"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/optionc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Option C"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/optiond"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Option D"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/correct"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Correct Option"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+</LinearLayout>
